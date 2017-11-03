@@ -1,8 +1,20 @@
+//COLOR PALETTE:
+//rgb(85, 0, 102);
+//rgb(197, 136, 187);
+//rgb(131, 36, 123);
+
+
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 60px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(131, 36, 123);
 }
 
 a {
   color: #00B7FF;
+}
+
+.title{
+  color: rgb(85, 0, 102);
+  background-color: rgb(197, 136, 187);
 }
